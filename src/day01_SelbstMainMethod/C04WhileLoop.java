@@ -7,12 +7,12 @@ public class C04WhileLoop {
        char temp=bas;
        String buyult="";
 
-       while (bas<=bitis){
+       while (temp<=bitis){
            buyult=(temp+"").toUpperCase();
 
                System.out.print(buyult+ " ");
 
-           temp++;
+           temp+=1;
        }
     }
 }
