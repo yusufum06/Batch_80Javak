@@ -1,4 +1,4 @@
-package daz20_Arrays;
+package day20_Arrays;
 
 import java.util.Arrays;
 
