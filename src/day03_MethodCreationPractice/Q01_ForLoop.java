@@ -19,8 +19,9 @@ public class Q01_ForLoop {
         for (int i=100;i>0;i--){
             if(i%13==0){
                 System.out.println(i);
+                toplam+=i;
             }
-            toplam+=i;
+
 
         }
         System.out.println("Toplam= " +toplam);
