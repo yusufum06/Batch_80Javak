@@ -5,7 +5,7 @@ public class C03_PassByValue {
         double satisFiyati=100;
 
         double indirimliFiyat=indirimliFiyatHesapla(satisFiyati);
-        System.out.println("Indirimli Fiyat: "  indirimliFiyat);
+        System.out.println("Indirimli Fiyat: "  +indirimliFiyat);
 
 
     }
