@@ -6,5 +6,5 @@ public interface I03_Interfaces {
     void yakit();
     public void motor();
     public abstract void teker();
-    
+
 }

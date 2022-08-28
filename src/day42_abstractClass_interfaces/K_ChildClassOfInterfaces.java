@@ -10,4 +10,19 @@ public class K_ChildClassOfInterfaces implements I02_Interfaces,I03_Interfaces{
         System.out.println(I03_Interfaces.SAYI);
         System.out.println(I02_Interfaces.SAYI);
     }
+
+    @Override
+    public void yakit() {
+
+    }
+
+    @Override
+    public void motor() {
+
+    }
+
+    @Override
+    public void teker() {
+
+    }
 }
